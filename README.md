@@ -94,7 +94,7 @@ Kamungor Homes is a fictional housing development company focused on making home
 
 1. **Download/Clone the Project**
    ```bash
-   git clone https://github.com/yourusername/kamungor-homes.git
+   git clone https://github.com/Bkirop/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
    cd kamungor-homes
    ```
 
@@ -126,7 +126,7 @@ Kamungor Homes is a fictional housing development company focused on making home
 ## 🌐 Live Deployment
 
 ### GitHub Pages
- Access via: `https://bkirop.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/`
+ Access via: https://bkirop.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 
 ## 🎨 Design System
@@ -264,14 +264,6 @@ Kamungor Homes is a fictional housing development company focused on making home
 - [ ] **Blog Section**: Housing tips and company updates
 - [ ] **Property Map**: Interactive location viewer
 
-## 👥 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/new-feature`)
-5. Create Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License. 
@@ -289,8 +281,8 @@ This project is licensed under the MIT License.
 ## 🎯 Project Status
 
 **Status**: ✅ Complete and Production Ready  
-**Version**: 2.0.0  
-**Last Updated**: December 2024  
+**Version**: 1.0.0  
+**Last Updated**: September 2025 
 **Live URL**: https://bkirop.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ---
